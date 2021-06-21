@@ -1,6 +1,6 @@
-## Image name: faucet/base
+## Image name: c65sdn/base
 
-FROM alpine:3.12.7
+FROM alpine:3.14
 
 RUN apk add --no-cache bash su-exec
 
